@@ -1,1 +1,2 @@
-Map can be found [here](https://grayona.github.io/neighborhoods/Neighborhoods_map.html)
+Map can be found [here](https://github.com/grayona/neighborhoods/Map_Food_EDCs.html)
+
